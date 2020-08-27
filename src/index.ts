@@ -9,4 +9,6 @@ for (let i = 1; i <= Number(num); i++) {
 }
 
 console.log(`factoriel ${Number(num)} is : `);
-console.log(BigInt(factoriel));
+console.log(factoriel);
+// console.log(BigInt(factoriel));
+console.log(factoriel.toLocaleString());

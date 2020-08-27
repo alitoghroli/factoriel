@@ -1,9 +1,7 @@
-install
+## install
 
----
-
-npm install
+\$ npm install
 
 ## run
 
-parcel index.html
+\$ parcel index.html
